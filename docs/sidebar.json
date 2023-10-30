@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Skin Specs",
+        "pages": {
+            "/": "Introduction",
+            "/overview": "Overview"
+        }
+    },
+    {
+        "title": "Resources",
+        "pages": {
+            "/resources/skin-thumbnail": "Skin Thumbnail",
+            "/resources/skin-texture": "Skin Texture",
+            "/resources/skin-data": "Skin Data",
+            "/resources/skin-data-sprite": "Skin Data Sprite"
+        }
+    },
+    {
+        "title": "Essentials",
+        "pages": {
+            "/essentials/skin-sprite-name": "Skin Sprite Name",
+            "/essentials/skin-sprite-transform": "Skin Sprite Transform"
+        }
+    }
+]
